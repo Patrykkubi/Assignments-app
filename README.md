@@ -1,5 +1,5 @@
 # Assignments-app
-Application for creating assignments
+Application for creating assignments with a simple login system
 
 Assignments view
 ![image](https://user-images.githubusercontent.com/57746916/170334077-f3652d25-6084-45c0-9fd5-eddfc76558d0.png)
