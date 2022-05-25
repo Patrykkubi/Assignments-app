@@ -1,8 +1,8 @@
 <?php
     //dns to data source name, czyli nasza baza danych
     $dsn = 'mysql:host=localhost;dbname=assignment_tracker';
-    $username = 'root';
-    $password = 'pkbase';
+    $username = '****';
+    $password = '******';
 
     try{
         $db = new PDO($dsn, $username,$password);
